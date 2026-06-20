@@ -43,43 +43,48 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=00FF88&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+FRONTEND+%2F+UI+%5D" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" />
 
 </td>
 <td valign="top" width="33%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=0EA5E9&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+BACKEND+%2F+API+%5D" alt="Backend" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark&perline=5" />
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,express&theme=dark&perline=4" />
 
 </td>
 <td valign="top" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=8B5CF6&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+DATABASES+%5D" alt="Databases" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=8B5CF6&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+AI+%2F+AUTOMATION+%5D" alt="AI" />
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=5" />
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-F97316?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0EA5E9?style=flat-square)
+![Agentic RAG](https://img.shields.io/badge/Agentic_RAG-22C55E?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=F97316&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+AI+%2F+AUTOMATION+%5D" alt="AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=F97316&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+DATABASES+%5D" alt="Databases" />
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-F97316?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-46C9FF?style=flat-square)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark&perline=4" />
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=00FF88&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+LANGUAGES+%5D" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=py,js,cpp&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js&theme=dark&perline=4" />
 
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 </td>
@@ -87,7 +92,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&pause=99999&color=0EA5E9&background=0D111700&vCenter=true&width=200&height=24&lines=%5B+DEVOPS+%2F+TOOLING+%5D" alt="DevOps" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark&perline=4" />
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-A78BFA?style=flat-square&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-4ADE80?style=flat-square&logo=render&logoColor=white)
 
 </td>
 </tr>
