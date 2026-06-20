@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION — hacker terminal style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FF88&background=0D111700&center=true&vCenter=true&random=false&width=620&height=45&lines=%3E+Booting+Muhammad+Shoaib...;%3E+Full-Stack+%26+AI+Developer;%3E+548%2B+LeetCode+problems+solved;%3E+Python+%7C+C%2B%2B+%7C+React;%3E+Lahore%2C+PK+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+Building+and+shipping._%E2%96%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1200&color=00FF88&background=0D111700&center=true&vCenter=true&random=false&width=620&height=45&lines=%3E+Booting+Muhammad+Shoaib...;%3E+Full-Stack+%26+AI+Developer;%3E+548%2B+LeetCode+problems+solved;%3E+Python+%7C+C%2B%2B+%7C+C;%3E+Lahore%2C+PK+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+Building+and+shipping._%E2%96%8C" alt="Typing SVG" />
 </a>
 
 <br/><br/>
